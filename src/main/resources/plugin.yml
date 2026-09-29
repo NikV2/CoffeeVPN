@@ -1,0 +1,7 @@
+name: CoffeeVPN
+version: ${project.version}
+main: me.nik.coffeevpn.CoffeeVPN
+api-version: 1.13
+prefix: CoffeeVPN
+authors: [ Nik ]
+description: ${project.description}
